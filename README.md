@@ -214,18 +214,12 @@ $ * Running on http://127.0.0.1:5000/
 
 ## Contact
 
-Alexis Rodriguez - [LinkedIn](https://www.linkedin.com/in/alexisrodriguezcs/) - alexisrodriguezdev@gmail.com
+Alexis Rodriguez - [LinkedIn]((https://linkedin.com/in/aayush-garg-696514246)) - ashgarga398@gmail.com
 
-Project Link: [https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git](https://github.com/AlexisRodriguezCS/BiometricAuthenticationSystem.git)
+Project Link: https://github.com/Aayush-garg-131/BiometricAuthenticationSystem
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="credit"></a>
 
-## Credits
 
-[face-api.js](https://github.com/justadudewhohacks/face-api.js) - The face recognition library used in this project.
-
-[Material Design for Bootstrap 5](https://mdbootstrap.com/) - Framework for building responsive and visually appealing user interfaces.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
