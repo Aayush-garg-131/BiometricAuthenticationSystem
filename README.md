@@ -214,7 +214,7 @@ $ * Running on http://127.0.0.1:5000/
 
 ## Contact
 
-Aayush Garg - [LinkedIn]((https://linkedin.com/in/aayush-garg-696514246)) - ashgarga398@gmail.com
+Aayush Garg - [LinkedIn](https://linkedin.com/in/aayush-garg-696514246) - ashgarga398@gmail.com
 
 Project Link: https://github.com/Aayush-garg-131/BiometricAuthenticationSystem
 
